@@ -1,0 +1,14 @@
+Base1 construcor
+Member1 construcor
+Member2 construcor
+Derived1 constructor
+Member3 construcor
+Member4 construcor
+Derived2 constructor
+Derived2 destructor
+Member4 destuctor
+Member3 destuctor
+Derived1 destructor
+Member2 destuctor
+Member1 destuctor
+Base1 destuctor
